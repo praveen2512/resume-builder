@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Akaya+Kanadaka&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre:wght@300&display=swap');
+
+:root{
+  --primary-color: #ffa500;
+  /* --primary-color: blue;
+  --primary-color: cyan; */
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  /* font-family: 'Lato', sans-serif; */
+  /* font-family: 'Akaya Kanadaka', cursive; */
+  font-family: 'Frank+Ruhl+Libre', sans-serif;
+  color: #343434;
+  color: #212F3C;
+  color: #1B2631;
+  color: #283747;
+}
+
+p{
+  /* font-size: 13px; */
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.container{
+  margin: 50px 50px;
+}
+
+.orange-text{
+  color: var(--primary-color);
+}
+
+.section-header{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 10px 0;
+}
+
+.inline-block{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 10px 0;
+}
+
+.custom-icon{
+  color: var(--primary-color);
+  padding-right: 10px;
+}
+
+.name{
+  letter-spacing: 3px;
+  color: var(--primary-color);
+}
+
+h3{
+  color: var(--primary-color);
+}
+
+.custom-list{
+  margin-left: 5%;
+}
+
+.project{
+  margin: 5px 0;
+}
+
+.project-desc{
+  margin-left: 15px;;
+}
+
+.skill-level {
+  height: 5px !important;
+  border-radius: 3px !important;
+  margin: 15px 0;
+  background-color: grey !important;
+}
+
+.skill-level .MuiLinearProgress-bar{
+  background-color: var(--primary-color) !important;
+}
+
+.MuiSvgIcon-fontSizeSmall{
+  font-size: 1rem !important;
+}
+
+/* .MuiPaper-root{
+  box-shadow: none !important;
+} */

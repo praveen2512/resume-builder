@@ -1,0 +1,133 @@
+{
+  "personalInfo":{
+    "fullName":"Kishore B",
+    "address":"10, TV Colony, Andalpuram, Madurai-625003, TamilNadu, India",
+    "email":"bnkishore03@gmail.com",
+    "phone":"+91 95788 50565"
+  },
+  "professionalSummary":[
+    "Over 4.5 years of experience in SAP Production Planning & Quality Management as a SAP Functional Consultant. ",
+    "Experienced consultant on both implementations and support projects",
+    "Good team worker with good leadership quality"
+  ],
+  "employmentHistory":[
+    {
+      "jobTitle":"Programmer Analyst",
+      "company":"Cognizant Technology Solutions",
+      "from":"Feb 2019",
+      "to":"Present",
+      "projects":[
+        {
+          "title":"COMET",
+          "role":"Analyst",
+          "description":"Deleivering a greate class experince, Worksheet corrections and preparation of content",
+          "technologiesUsed":"BMC Remedy, Demand Tracker, HP ALM, MS Office, SharePoint",
+          "duration":"",
+          "descriptionList":[
+            "Worked on Multiple inspection lot origin and custom inspection type.Source inspection,Incoming inspection,Goods receipt inspection are the inspection origin we used.",
+            "Worked on DMR functionality, Physical sampling, Sample drawing inspection, QM Info record.",
+            "Handling incident on Quality notification with workflow issues.",
+            "Inspection characteristics will flow from LIMS to SAP and vice versa. Monitoring LIMS interface failures,Act as liaison with client for troubleshooting.",
+            "Certificate of Analysis with adobe form, Using Custom Transaction code and multiple templates based on country requirements.",
+            "Worked on the Global Batch Traceability system, Materials has a long genealogy to have a separate system.",
+            "Batch disposition is a developed custom T-Code with all data interfaced with Quality Notification, inspection lot, GBT, batch details, BRR Checklist.",
+            "Worked on new changes in existing functionality and updating functional specification solution manager the new sap functionality, prepared test scripts and ran the HP ALM.",
+            "Act as liaison with clients for troubleshooting: investigate, analyze, and solve problems.",
+            "Handle changes or emergency transports as needed for high priority issues.",
+            "Worked independently acted as subject matter mentor and Prepared knowledge documents and solution documents for juniors."
+            
+          ],
+          "industry":"Pharmaceutical",
+          "erpSystems":"SAP ECC 6.0 "
+        }
+      ]
+    },
+    {
+      "jobTitle":"Associate consultant",
+      "company":"SAVIC Technologies",
+      "from":"Jan 2017",
+      "to":"Feburary 2019",
+      "projects":[
+        {
+          "title":"Vision 500",
+          "role":"SAP PP/QM Associate Consultant",
+          "description":"Platform tool to automate the product configuration process which reduced the developers' effort and increased productivity",
+          "technologiesUsed":"MS Office, SharePoint",
+         
+          "descriptionList":[
+            "Performed Business process mapping and requirement gathering.",
+            "Preparation of BPML, KDS, BPD.",
+            "Configuration for PP/QM based on the global template.",
+            "Creation of masters- Bill of Materials, Work Centers, Routings, Production version, Master Inspection characteristics.",
+            "Involved in Subcontract process with reference to production order integration with MM",
+            "Knowledge in Batch determination configuration in batch management of PP, SD, MM",
+            "Configured Serial Number for materials, goods movements, quality and Delivery.",
+            "Worked on Quality management with incoming inspection, Goods receipt, Stock Transfer inspection, sales return inspection.",
+            "Costing run support for standard cost estimation.",
+            "Coordination with the technical team for object developmentDeveloped customized reports throughput time, WIP & Enhancement without goods issue confirmation not possible, without confirmation GR not possible.",
+            "Configured order type, order type dependent parameter, order control parameter for order confirmation, single entry of confirmation, scheduling parameter.",
+            "Worked with the integration and support for FICO, SD, MM Modules.",
+            "User Manual preparation and Training End Users."
+          ],
+          "industry":"Manufacturing",
+          "erpSystems":"S/4HANA 1908"
+          },
+        {
+          "title":"3I",
+          "role":"SAP PP/QM Associate Consultant",
+          "description":"Configuration for PP/QM based on the global template",
+          "descriptionList":[
+            "Configuration for PP/QM based on the global template.",
+            "Production process with batch management, batch determination using FIFO with Co -product & allocation structure.",
+            "Quality management with incoming inspection, Goods receipt inspection, stock transfer inspection.",
+            "Creation of masters- Bill of Materials, Work Centers, Routings, Production version, Allocation structure, Master inspection characteristics, Inspection plans",
+            "Process Order - Creation of Process Orders, carrying out material availability, scheduling, releasing process orders and confirming process orders.",
+            "Costing run support for standard cost estimation.", 
+            "Worked on Interface with a barcode device.",
+            "Worked with the integration of FICO, SD, MM Modules.",
+            "User Manual preparation and Training End Users."
+          ],
+          "technologiesUsed":"MS Office, Sharepoint",
+
+          "industry":"FMCG",
+          "erpSystems":"S/4HANA 1809"
+        }
+      ]
+    }
+  ],
+  "experiences":[],
+  "education":[
+    {
+      "degree":"Bachelor of Engineering in Mechanical Engineering",
+      "institution":"Sacs MAVMM Engineering COLLEGE",
+      "yearOfPassing":"April, 2016",
+      "percentage":"62"
+    },
+    {
+      "degree":"Higher Secondary School Certification",
+      "institution":"TVS Higher Secondary School",
+      "yearOfPassing":"May, 2012",
+      "percentage":"84"
+    }
+  ],
+  "skills":[
+    {
+      "skill":"SAP PP",
+      "rating":4
+    },
+    {
+      "skill":"SAP QM",
+      "rating":4
+    }
+  ],
+  "languages":[
+    {
+      "language":"English",
+      "rating":4
+    },
+    {
+      "language":"Tamil",
+      "rating":5
+    }
+  ]
+}

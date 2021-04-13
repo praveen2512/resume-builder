@@ -8,9 +8,9 @@ import {
 import { Card, CardContent, Grid } from "@material-ui/core";
 import { Employment } from "./Employment";
 import { Education } from "./Education";
-import { profile } from "../../../data/data";
+// import { profile } from "../../../data/data";
 
-export const Profile = () => {
+export const Profile = ({profile}) => {
   const {
     education,
     employmentHistory,

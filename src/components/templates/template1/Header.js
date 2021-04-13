@@ -1,11 +1,11 @@
 import React from 'react';
 import {EmailRounded, PhoneRounded, SendRounded} from '@material-ui/icons';
 import { Card, CardContent, Grid } from '@material-ui/core';
-import {profile} from '../../../data/data';
+// import {profile} from '../../../data/data';
 
-export const Header = () => {
+export const Header = ({profile}) => {
 
-    const {fullName, address, email, phone} = profile.personalInfo
+    const {fullName, address, email, phone} = profile.personalInfo;
 
     return (
       <Grid item sm={12}>

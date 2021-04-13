@@ -1,9 +1,9 @@
 import React from 'react';
 import { ClearAllRounded, LanguageRounded} from '@material-ui/icons';
 import { Card, CardContent, Grid, LinearProgress } from '@material-ui/core';
-import {profile} from '../../../data/data';
+// import {profile} from '../../../data/data';
 
-export const Skills = () => {
+export const Skills = ({profile}) => {
 
     const {languages, skills} = profile;
 

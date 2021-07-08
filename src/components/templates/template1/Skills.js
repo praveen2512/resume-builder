@@ -8,7 +8,7 @@ export const Skills = ({profile}) => {
     const {languages, skills} = profile;
 
     return (
-      <Grid item sm={3}>
+      <Grid item sm={6}>
         <div className="skills">
           {/* <CardContent> */}
             <div className="section-header">

@@ -19,7 +19,7 @@ export const Profile = ({profile}) => {
   } = profile;
 
   return (
-    <Grid item sm={9}>
+    <Grid item sm={6}>
       {professionalSummary && professionalSummary.length > 0 && (
         <div className="prof-summary">
           {/* <CardContent> */}
